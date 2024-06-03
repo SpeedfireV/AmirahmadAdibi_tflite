@@ -19,6 +19,7 @@ import android.renderscript.ScriptIntrinsicYuvToRGB;
 import android.renderscript.Type;
 import android.util.Log;
 import androidx.annotation.NonNull;
+import android.app.Activity;
 
 import io.flutter.FlutterInjector;
 import io.flutter.embedding.android.FlutterActivity;
